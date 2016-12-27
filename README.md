@@ -1,7 +1,7 @@
 ### Project 1 Title: Lyber Opportunities
 ## Group Members
+[Sam Wong](https://github.com/sandymule)
 [Lee Zhang](https://github.com/JasperNLiberty)
-[Sam Wang](https://github.com/sandymule)
 [Rohan Shah](https://github.com/rohans90)
 [Bob Tian](https://github.com/bobtian19)
 
